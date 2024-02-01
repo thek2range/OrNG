@@ -1,0 +1,100 @@
+1. Verify language compatibility for Excel menus and functions.
+2. Test date and time formats based on regional settings.
+3. Check currency formatting according to regional preferences.
+4. Validate number formats for different regions (e.g., decimal separators).
+5. Ensure proper handling of regional calendar systems.
+6. Test Excel's compatibility with regional keyboard layouts.
+7. Verify integration with regional spell-check dictionaries.
+8. Check for localization of error messages and prompts.
+9. Test file compatibility across different language versions.
+10. Validate regional units of measurement for charts and graphs.
+11. Check support for special characters used in different languages.
+12. Verify regional date conventions (e.g., day/month order).
+13. Test Excel's compatibility with regional date and time zones.
+14. Check for proper handling of regional paper sizes for printing.
+15. Validate the sorting order based on regional settings.
+16. Test regional-specific formulas and functions.
+17. Validate the display of regional holidays in date functions.
+18. Check for proper handling of regional list separators.
+19. Test Excel's compatibility with regional date formats in CSV imports.
+20. Validate support for regional currency symbols.
+21. Test the integration of Excel with regional default email clients.
+22. Check compatibility with regional Windows locale settings.
+23. Validate the display of time in 24-hour or 12-hour format.
+24. Test regional-specific font rendering in Excel.
+25. Verify the behavior of Excel with regional time formats.
+26. Check compatibility with regional date formats in data validation.
+27. Test the behavior of regional-specific cell formats.
+28. Validate integration with regional date and time picker controls.
+29. Check the accuracy of regional-specific functions like NETWORKDAYS.
+30. Test the display of regional time zones in Excel charts.
+31. Verify proper support for regional character encodings.
+32. Test Excel's compatibility with regional password policies.
+33. Validate regional-specific settings for PivotTables.
+34. Check for proper handling of regional language input tools.
+35. Test Excel's behavior with regional specific settings for sparklines.
+36. Verify support for regional-specific keyboard shortcuts.
+37. Test the display of regional holidays in Excel's date picker.
+38. Validate Excel's behavior with regional-specific ODBC data sources.
+39. Check compatibility with regional-specific linked data sources.
+40. Test the integration of Excel with regional printers and print settings.
+41. Verify support for regional-specific themes and styles.
+42. Test the behavior of Excel with regional-specific linked workbooks.
+43. Validate compatibility with regional-specific Windows themes.
+44. Check support for regional-specific SharePoint integration.
+45. Test Excel's behavior with regional-specific Windows display scaling.
+46. Verify integration with regional-specific Windows accessibility settings.
+47. Test the performance of Excel with regional-specific large datasets.
+48. Validate support for regional-specific collaboration features.
+49. Check Excel's compatibility with regional-specific cloud storage services.
+50. Verify regional-specific configurations for Excel's AutoSave feature.
+51. Test Excel's behavior when using regional-specific data validation lists.
+52. Validate the handling of regional-specific default date formats in Excel templates.
+53. Check for proper display of regional time stamps in Excel comments.
+54. Test Excel's behavior when importing/exporting regional-specific text files.
+55. Validate the integration of regional-specific third-party add-ins.
+56. Check for proper handling of regional-specific conditional formatting rules.
+57. Test compatibility with regional-specific Windows taskbar configurations.
+58. Verify the behavior of Excel when using regional-specific data connections.
+59. Validate the integration of Excel with regional-specific Active Directory settings.
+60. Test the performance of Excel when working with regional-specific linked objects.
+61. Check for proper display of regional-specific symbols in formula bar tooltips.
+62. Test Excel's behavior with regional-specific font fallback mechanisms.
+63. Validate the handling of regional-specific characters in Excel named ranges.
+64. Check for compatibility with regional-specific Windows display languages.
+65. Test Excel's integration with regional-specific clipboard formats.
+66. Validate the behavior of Excel with regional-specific custom number formats.
+67. Check for proper handling of regional-specific text alignment settings.
+68. Test Excel's compatibility with regional-specific Windows file paths.
+69. Verify the behavior of Excel when using regional-specific named styles.
+70. Validate the integration of regional-specific custom shapes and symbols.
+71. Test Excel's behavior when saving files with regional-specific file extensions.
+72. Check for compatibility with regional-specific Windows font settings.
+73. Test Excel's handling of regional-specific font ligatures.
+74. Validate the behavior of Excel with regional-specific conditional formatting icons.
+75. Check for proper display of regional-specific icons in the Ribbon.
+76. Test Excel's compatibility with regional-specific Windows accessibility tools.
+77. Validate the integration of regional-specific chart styles and colors.
+78. Check for proper handling of regional-specific time intervals in date functions.
+79. Test Excel's behavior when using regional-specific custom number formats.
+80. Validate compatibility with regional-specific Windows printer drivers.
+81. Check for proper display of regional-specific hyperlinks in Excel.
+82. Test the behavior of Excel when working with regional-specific custom views.
+83. Verify compatibility with regional-specific Windows display resolution settings.
+84. Test Excel's handling of regional-specific custom date formats.
+85. Validate the behavior of Excel with regional-specific custom named ranges.
+86. Check for compatibility with regional-specific Windows task scheduler settings.
+87. Test Excel's behavior when using regional-specific linked data types.
+88. Validate the integration of regional-specific Excel Power Query settings.
+89. Check for proper handling of regional-specific custom number formatting codes.
+90. Test Excel's compatibility with regional-specific Windows environment variables.
+91. Verify the behavior of Excel with regional-specific SmartArt graphics.
+92. Test the handling of regional-specific custom PivotTable styles.
+93. Validate the integration of regional-specific Windows default printer settings.
+94. Check for proper display of regional-specific symbols in Excel formulas.
+95. Test Excel's behavior when using regional-specific custom data validation criteria.
+96. Verify compatibility with regional-specific Windows font smoothing settings.
+97. Validate the behavior of Excel when working with regional-specific custom pivot charts.
+98. Check for proper handling of regional-specific custom conditional formatting rules.
+99. Test Excel's integration with regional-specific Windows system fonts.
+100. Validate compatibility with regional-specific Windows user interface languages.
